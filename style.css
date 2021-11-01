@@ -167,7 +167,7 @@ section {
 
   .ketiga-section .ketiga-content p {
     margin-left: 0;
-    text-align: center;
+    /* text-align: center; */
   }
 
   /* keempat */
@@ -178,7 +178,7 @@ section {
   .keempat-section .keempat-content p {
     margin-left: 0;
     text-align: center;
-    color: #d9d9d9;
+    /* color: #d9d9d9; */
   }
   .keempat-section .keempat-content img {
     margin-left: auto;
@@ -194,7 +194,7 @@ section {
   }
   .bg3 {
     width: 100%;
-    top: 1700px;
+    top: 2000px;
   }
   .bg-mobile {
     display: block;
